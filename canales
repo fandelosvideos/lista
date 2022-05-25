@@ -1,0 +1,86 @@
+#EXTM3U
+
+#EXTINF: -1 ,FASHION TV
+https://fashs043.cloudycdn.services/scte/sftv_adapt/playlist.m3u8
+#EXTINF: -1 ,VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF: -1 ,MOLA HITS ESPAÑA
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF: -1 ,ACTIVA TV ESPAÑA
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF: -1 ,LOOP ELECTRONICA
+https://0bdf3efc906045538c63468aa2f86a96.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_littlstar/master.m3u8
+#EXTINF: -1 ,FIRST MUSIC CHANNEL BIELORUSIA
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF: -1 ,LOOP 80s
+https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
+#EXTINF: -1 ,VEVO 80s
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+#EXTINF: -1 ,VEVO POP EUROPA
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+#EXTINF: -1 ,RETRO MUSIC TELEVISION EUROPA
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF: -1 ,LOOP 90s
+https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
+#EXTINF: -1 ,RETRO LATINO
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF: -1 ,RETRO RADIO TV
+https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 ,MUNDO DE LA MUSICA TV
+https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 ,TELERITMO MX
+https://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
+#EXTINF: -1 ,VEVO LATINO
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF: -1 ,MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF: -1 ,MTV
+http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8
+#EXTINF: -1 ,PLUTO MTV LATINO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
+#EXTINF: -1 ,MULTIMEDIOS CANAL 6 MEXICO
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF: -1 ,MULTIMEDIOS CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
+#EXTINF: -1 ,MULTIMEDIOS GUADALAJARA MX
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?PlaylistM3UCL
+#EXTINF: -1 ,MULTIMEDIOS MONTERREY MX
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL
+#EXTINF: -1 ,EL FINANCIERO MEXICO
+https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+#EXTINF: -1 ,FORO TV MEXICO
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF: -1 ,ADN40 MEXICO 1
+https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+#EXTINF: -1 ,ADN40 MEXICO 2
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
+#EXTINF: -1 ,TV4 NOTICIAS MX
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 ,ESTRELLA NEWS
+https://estrellanews-plex.amagi.tv/playlist.m3u8
+#EXTINF: -1 ,NOTICIAS CARACOL COLOMBIA
+https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF: -1,AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF: -1,AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF: -1,AZTECA AMERICA
+https://v-ny.theus6tv.tk/hls/42.1/playlist.m3u8
+#EXTINF: -1,ESTRELLA TV 
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF: -1,EDGE SPORT
+https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
+#EXTINF: -1 ,CENTRAL FM MX
+https://5fe2654d6127d.streamlock.net:443/centralfm/smil:centralfm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1,EXTREMA PELICULAS
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF: -1,TU CINE LATINO
+https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=tu-cine-latam&f=.m3u8
+#EXTINF: -1,CINE SUREÑO
+https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=cine-sureno&f=.m3u8
+#EXTINF: -1,CINE REAL
+https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=cine-real-latam&f=.m3u8
+#EXTINF: -1,CINEMAX ASIA
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+#EXTINF: -1,PLUTO CINE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
