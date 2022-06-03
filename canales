@@ -69,8 +69,6 @@ https://v-ny.theus6tv.tk/hls/42.1/playlist.m3u8
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF: -1,EDGE SPORT
 https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
-#EXTINF: -1,BEIN SPORTS XTRA
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/anxcx913
 #EXTINF: -1,AXN LATINOAMERICA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/anxcx913
 #EXTINF: -1,EXTREMA PELICULAS
