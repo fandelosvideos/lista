@@ -87,3 +87,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 https://broadcast.mytvtogo.net/SciFiTV4u/SciFiTV4u/playlist.m3u8
 #EXTINF: -1,CINEMAX ASIA
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+#EXTINF: -1,DW GOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
