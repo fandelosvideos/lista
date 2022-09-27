@@ -3,6 +3,8 @@
 https://fashs043.cloudycdn.services/scte/sftv_adapt/playlist.m3u8
 #EXTINF: -1,PEOPLE
 https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8
+#EXTINF: -1,Clubbing TV
+ttps://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF: -1 ,VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF: -1 ,MOLA HITS ESPAÑA
@@ -81,6 +83,8 @@ https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=cine-real-latam&f=.m3u8
 #EXTINF: -1,TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF: -1,COSMO
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF: -1,CINEMAX ASIA
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 #EXTINF: -1,DW GOL
@@ -99,3 +103,5 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 #EXTINF: -1,Canal Catorce
 https://video.misistemareseller.com/catorcetv/catorcetv/playlist.m3u8
+#EXTINF: -1,Cartoonito (Spanish)
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
