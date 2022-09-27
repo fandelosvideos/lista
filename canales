@@ -77,14 +77,10 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=tu-cine-latam&f=.m3u8
 #EXTINF: -1,JUNTOS
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-#EXTINF: -1,CINE SUREÑO
-https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=cine-sureno&f=.m3u8
 #EXTINF: -1,CINE REAL
 https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=cine-real-latam&f=.m3u8
 #EXTINF: -1,TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF: -1,SCI-FI 4U
-https://broadcast.mytvtogo.net/SciFiTV4u/SciFiTV4u/playlist.m3u8
 #EXTINF: -1,CINEMAX ASIA
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 #EXTINF: -1,DW GOL
