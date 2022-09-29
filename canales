@@ -54,8 +54,6 @@ https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/in
 #EXTINF: -1 ,FORO TV MEXICO
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF: -1 ,ADN40 MEXICO 1
-https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
-#EXTINF: -1 ,ADN40 MEXICO 2
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
 #EXTINF: -1 ,ESTRELLA NEWS
 https://estrellanews-plex.amagi.tv/playlist.m3u8
@@ -69,10 +67,12 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://v-ny.theus6tv.tk/hls/42.1/playlist.m3u8
 #EXTINF: -1,ESTRELLA TV 
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF: -1,EDGE SPORT
-https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
+#EXTINF: -1,Canal Catorce
+https://video.misistemareseller.com/catorcetv/catorcetv/playlist.m3u8
 #EXTINF: -1,AXN LATINOAMERICA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/anxcx913
+#EXTINF: -1,CINEMAX ASIA
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 #EXTINF: -1,EXTREMA PELICULAS
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF: -1,TU CINE LATINO
@@ -85,10 +85,8 @@ https://regioplay.xyz/php/SR_REGIO_715022_/distroregio.php?c=cine-real-latam&f=.
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF: -1,COSMO
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF: -1,CINEMAX ASIA
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
-#EXTINF: -1,DW GOL
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF: -1,EDGE SPORT
+https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
 #EXTINF: -1,STEREO
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF: -1,Salsa
@@ -103,7 +101,5 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF: -1,Best Cable Sports Perú (720p) [Not 24/7]
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
-#EXTINF: -1,Canal Catorce
-https://video.misistemareseller.com/catorcetv/catorcetv/playlist.m3u8
 #EXTINF: -1,Cartoonito (Spanish)
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
