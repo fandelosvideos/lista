@@ -89,8 +89,6 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
 #EXTINF: -1,STEREO
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF: -1,Salsa
-https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8
 #EXTINF: -1,DirecTV Sports (480p)
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF: -1,Abu Dhabi Sports 1 (1080p)
